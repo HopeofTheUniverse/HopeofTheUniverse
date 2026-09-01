@@ -379,7 +379,7 @@ Relevant coursework:
 <img src="https://img.shields.io/badge/GITHUB-HopeofTheUniverse-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/ali-yahia804399291">
+<a href="https://www.linkedin.com/in/ali-yahia-804399291">
 <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
