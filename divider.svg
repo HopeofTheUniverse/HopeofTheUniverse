@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="80" viewBox="0 0 1200 80">
+<defs><linearGradient id="g"><stop stop-color="#00F5FF"/><stop offset=".5" stop-color="#7C5CFF"/><stop offset="1" stop-color="#FF4FD8"/></linearGradient></defs>
+<path d="M0 40 C180 0 300 80 480 40 S780 0 960 40 S1140 80 1200 40" fill="none" stroke="url(#g)" stroke-width="2" opacity=".8">
+<animate attributeName="d" dur="5s" repeatCount="indefinite" values="M0 40 C180 0 300 80 480 40 S780 0 960 40 S1140 80 1200 40;M0 40 C180 80 300 0 480 40 S780 80 960 40 S1140 0 1200 40;M0 40 C180 0 300 80 480 40 S780 0 960 40 S1140 80 1200 40"/>
+</path>
+<circle cx="0" cy="40" r="4" fill="#00F5FF"><animate attributeName="cx" from="0" to="1200" dur="3s" repeatCount="indefinite"/></circle>
+</svg>
