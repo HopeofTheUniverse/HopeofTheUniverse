@@ -7,7 +7,7 @@
 <a href="https://github.com/HopeofTheUniverse">
 <img src="https://img.shields.io/badge/GITHUB-HopeofTheUniverse-0B1020?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/ali-yahia804399291">
+<a href="https://www.linkedin.com/in/ali-yahia-804399291">
 <img src="https://img.shields.io/badge/LINKEDIN-Ali%20YAHIA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:aliyahialegacy@gmail.com">
